@@ -10,9 +10,7 @@ It demonstrates how deep learning can be applied to medical imaging and highligh
 ```
 CNN-X-Ray-Pneumonia-Detection/
 │── README.md                  # Project description, dataset link, usage
-│── requirements.txt           # Dependencies
-│── model/                     # Saved trained model
-│   └── pneumonia_cnn.h5         
+│── requirements.txt           # Dependencies       
 │── results/                   # Evaluation outputs
 │   ├── Training_History.png
 │   ├── Classification_Report.png
@@ -22,6 +20,10 @@ CNN-X-Ray-Pneumonia-Detection/
 │── notebooks/                 # Jupyter notebooks
    └── pneumonia_detection.ipynb
 ```
+
+---
+## 🔗 Model Download
+Download the trained model here: [Trained model - pneumonia_cnn.h5 (Google Drive Link)](https://drive.google.com/file/d/1l2vsi5McGlmyQjoCNZR5LA2ZpQu0Sfsn/view?usp=drive_link)
 
 ---
 
